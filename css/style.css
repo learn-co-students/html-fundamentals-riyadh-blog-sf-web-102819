@@ -11,23 +11,31 @@ body {
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
+  color: black;
 }
 
 .wrapper {
   margin: 0 auto;
   width: 60%;
   padding-bottom: 40px;
+
 }
+
 
 #content {
   padding: 20px;
   background: rgba(255,255,255,.85);
 }
 
-h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: #fff;
+#welcome {
+  color: white;
 }
+
+
+
+
+
+
 
 h1 {
   font-size: 3.5em;
